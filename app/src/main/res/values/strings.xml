@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Increment</string>
+    <string name="_0">0</string>
+    <string name="increment">Increment</string>
+</resources>
